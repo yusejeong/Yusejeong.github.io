@@ -35,3 +35,7 @@ p.lead{font-size:1.15rem;font-weight:400}
   .w3-round-xlarge {
     border-radius: 16px;
   }
+  .view{
+    border-radius:16px;
+    background-color:#dcdcdc;
+  }
