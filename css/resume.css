@@ -13,7 +13,7 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 0;
-    padding-left: 17rem;
+    /* padding-left: 17rem; */
   }
 }
 
@@ -170,4 +170,11 @@ section.resume-section .resume-item .resume-date {
 
 a:hover, a:focus, a:active {
   color: #FF607F;
+}
+.jumbotron{
+  background-color:#FCEEB5;
+}
+.main{
+  max-width:100%;
+  width:auto;height:auto;
 }
