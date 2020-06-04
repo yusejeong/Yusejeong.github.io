@@ -178,3 +178,7 @@ a:hover, a:focus, a:active {
   max-width:100%;
   width:auto;height:auto;
 }
+.container-fluid{
+  padding-left:50px;
+  padding-right:50px;
+}
